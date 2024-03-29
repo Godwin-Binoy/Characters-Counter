@@ -5,4 +5,4 @@ This is a simple Python program to find the number of characters in a text
 - Run .py file
 - Enter text
 - Press enter
-##### The program will display length of th text
+The program will display length of th text
