@@ -9,4 +9,4 @@ This is a simple Python program to find the number of characters in a text
 
 The program will display length of the text
 
-Author: https://github.com/Godwin-Binoy 
+Author: https://github.com/godwin-binoy 
