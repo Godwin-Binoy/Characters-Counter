@@ -17,7 +17,7 @@ A simple Python-based program designed to calculate the length of any user-provi
 
 To run this program, ensure you have:
 
-- **Python 3.x** installed on your machine.
+- **Python 3** installed on your machine.
 
 
 
